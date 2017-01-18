@@ -1,33 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f97bea7-a46a-4be9-acba-9f84b1d6d4c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/domain/businessRule/BusinessRule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/domain/businessRule/Definition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/domain/businessRule/IBusinessRule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/domain/businessRule/Script.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/domain/businessRuleType/BusinessRuleType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/domain/businessRuleType/IBusinessRuleType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/domain/businessRuleType/RulePackages.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/domain/targetDatabase/ITargetDatabase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/task/DefineController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/task/ExecuteController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/task/GenerateController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/task/MaintainController.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/businessrules/test/Definition.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/businessrules/test/DefinitionHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/businessrules/test/TestBusinessRule.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/domain/Attribute.java" afterPath="$PROJECT_DIR$/src/domain/targetDatabase/Attribute.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/domain/Category.java" afterPath="$PROJECT_DIR$/src/domain/businessRuleType/Category.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/domain/Operator.java" afterPath="$PROJECT_DIR$/src/domain/businessRuleType/Operator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/domain/Scheme.java" afterPath="$PROJECT_DIR$/src/domain/targetDatabase/Scheme.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/domain/Table.java" afterPath="$PROJECT_DIR$/src/domain/targetDatabase/Table.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/domain/TargetDatabase.java" afterPath="$PROJECT_DIR$/src/domain/targetDatabase/TargetDatabase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="9f97bea7-a46a-4be9-acba-9f84b1d6d4c2" name="Default" comment="Packages en nieuwe klassen toegevoegd.">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/businessrules/BusinessRule.java" afterPath="$PROJECT_DIR$/src/businessrules/BusinessRule.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/businessrules/BusinessRuleType.java" afterPath="$PROJECT_DIR$/src/businessrules/BusinessRuleType.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/businessrules/TupleCompareRule.java" afterPath="$PROJECT_DIR$/src/businessrules/TupleCompareRule.java" />
     </list>
     <ignored path="TOSAD-GROEP7.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -142,8 +117,8 @@
       <file leaf-file-name="ITargetDatabase.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/domain/targetDatabase/ITargetDatabase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -779,16 +754,24 @@
       <workItem from="1484318498764" duration="184000" />
       <workItem from="1484318687713" duration="80000" />
       <workItem from="1484318769484" duration="11469000" />
-      <workItem from="1484767017210" duration="790000" />
+      <workItem from="1484767017210" duration="1652000" />
     </task>
+    <task id="LOCAL-00001" summary="Packages en nieuwe klassen toegevoegd.">
+      <created>1484768004345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1484768004345</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12532000" />
+    <option name="totallyTimeSpent" value="13394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -804,7 +787,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -834,6 +817,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Packages en nieuwe klassen toegevoegd." />
+    <option name="LAST_COMMIT_MESSAGE" value="Packages en nieuwe klassen toegevoegd." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1076,8 +1064,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/domain/targetDatabase/ITargetDatabase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
