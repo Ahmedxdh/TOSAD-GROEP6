@@ -1,6 +1,6 @@
 package businessrules;
 
-import domain.Operator;
+import domain.businessRuleType.Operator;
 
 /**
  * Created by lucas on 13-1-2017.

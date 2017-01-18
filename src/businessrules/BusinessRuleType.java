@@ -1,6 +1,6 @@
 package businessrules;
 
-import domain.Operator;
+import domain.businessRuleType.Operator;
 
 import java.util.List;
 
